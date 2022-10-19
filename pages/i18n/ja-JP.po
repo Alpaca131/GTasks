@@ -1,0 +1,5 @@
+msgid "done"
+msgstr "完了"
+
+msgid "tasks"
+msgstr "タスク"

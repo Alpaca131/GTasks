@@ -1,0 +1,5 @@
+msgid "done"
+msgstr "Done"
+
+msgid "tasks"
+msgstr "Tasks"
